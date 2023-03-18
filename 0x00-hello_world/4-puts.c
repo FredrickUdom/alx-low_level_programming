@@ -4,11 +4,9 @@
 * followed by a new line."
 * return 0.
 *  main - Entry point
- *
- * Description: "the program's description."
- * @parameter: describe the parameter
- *
- * Return: Always 0 (Success)
+*
+* Description: "the program's description."
+* Return: Always 0 (Success)
 **/
 int main(void)
 {
